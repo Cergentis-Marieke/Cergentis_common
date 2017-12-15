@@ -12,10 +12,9 @@ This set of scripts is designed to produce an image of the coverage accross the 
 The script take as input a folder that contains all the bam files for which the image should be created. for each of the bams in teh input folder, the scripts will generate two output files: a list of the coverage per 10kb bins (txt), and an image of the coverage (png).
 
 Installation:
-download following scripts and store wihtin one folder:
-
--plotGenomeCoverage.pl
--windowed_coverage.pl
+download following scripts and store wihtin one folder:..
+-plotGenomeCoverage.pl..
+-windowed_coverage.pl..
 -GenomePlot.R
 
 Requirements:
